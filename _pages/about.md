@@ -15,4 +15,4 @@ Publications
 
 Awards
 ======
-National Scholarship (2021/2024)
+National Scholarship (2021/2023)
