@@ -1,6 +1,6 @@
 ---
 permalink: /
-title:"This is XinyuTang."
+title: "This is XinyuTang."
 author_profile: true
 redirect_from: 
   - /about/
