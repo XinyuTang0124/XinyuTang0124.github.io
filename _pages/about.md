@@ -1,11 +1,11 @@
 ---
 permalink: /
 author_profile: true
+title: "# Hi there! 👋"
 redirect_from: 
   - /about/
   - /about.html
 ---
-# Hi there! 👋
 
 ## About Me
 
