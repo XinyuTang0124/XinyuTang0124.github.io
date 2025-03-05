@@ -1,7 +1,7 @@
 ---
 permalink: /
 author_profile: true
-title: "# Hi there! 👋"
+title: "Hi there! 👋"
 redirect_from: 
   - /about/
   - /about.html
