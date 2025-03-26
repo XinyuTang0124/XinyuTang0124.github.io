@@ -17,7 +17,7 @@ My research focuses on **quantum information**, which lies at the intersection o
 - 🤖 *AI for Quantum*
 
 ## Publications
-1. Tang X, Lv H, Gao Y, et al. Towards Efficient Auction Design with ROI Constraints[C]//Proceedings of the 23rd International Conference on Autonomous Agents and Multiagent Systems. 2024: 1818-1826.
+1. Tang X, Lv H, Gao Y, et al. Towards Efficient Auction Design with ROI Constraints[C]//Proceedings of the 23rd International Conference on Autonomous Agents and Multiagent Systems. 2024: 1818-1826. (CCF B)
 
 ## Awards
 National Scholarship (2021-2022/2023-2024)
