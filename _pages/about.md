@@ -9,7 +9,9 @@ redirect_from:
 
 ## About Me
 
-Hello! I am **汤欣宇 (Xinyu Tang)**, a senior undergraduate student from the *School of Software* at *Shandong University*. In 2025, I will pursue a PhD at *Shanghai Jiao Tong University*. I am fortunate to be advised by [**Ya-Dong Wu**](https://yadong101.github.io).
+I am **Xinyu Tang (汤欣宇)**, currently a first-year Ph.D. student at the School of Computer Science, Shanghai Jiao Tong University. I received my Bachelor's degree in Software Engineering from Shandong University in June 2025.
+
+I am fortunate to be advised by [Prof. Ya-Dong Wu](https://yadong101.github.io).
 
 My research focuses on **quantum information**, which lies at the intersection of:
 - 🧑‍🔬 *Quantum Physics*
