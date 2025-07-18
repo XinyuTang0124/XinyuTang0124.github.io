@@ -17,7 +17,8 @@ My research focuses on **quantum information**, which lies at the intersection o
 - 🤖 *Researching AI-driven methods for quantum information, AI for Quantum*
 - 💻 *Studying quantum information with continuous-variable systems, CV Quantum Information*
 
-![image](https://github.com/user-attachments/assets/337d819c-0661-4ada-839c-5e7fa7062bf1)
+<img width="2648" height="1580" alt="research_illustrations-3" src="https://github.com/user-attachments/assets/5e1a6361-467c-4ecc-bea3-4c39e332ea32" />
+
 
 
 ## Publications
