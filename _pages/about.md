@@ -15,11 +15,7 @@ I am fortunate to be advised by [Prof. Ya-Dong Wu](https://yadong101.github.io).
 
 My research focuses on **quantum information**, which lies at the intersection of:
 - 🤖 *Researching AI-driven methods for quantum information, AI for Quantum*
-- 💻 *Studying quantum information with continuous-variable systems, CV Quantum Information*
-
-<img width="2648" height="1580" alt="research_illustrations-3" src="https://github.com/user-attachments/assets/5e1a6361-467c-4ecc-bea3-4c39e332ea32" />
-
-
+- 💻 *Studying quantum information with continuous-variable systems, CV*
 
 ## Publications
 1. Tang X, Lv H, Gao Y, et al. Towards Efficient Auction Design with ROI Constraints[C]//Proceedings of the 23rd International Conference on Autonomous Agents and Multiagent Systems. 2024: 1818-1826. (CCF B) [Publication from undergraduate research, advised by Prof. Hongtao Lv and Prof. Lei Liu.]
