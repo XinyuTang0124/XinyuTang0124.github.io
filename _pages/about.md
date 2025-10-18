@@ -17,7 +17,7 @@ My research focuses on **quantum information**, which lies at the intersection o
 - 🤖 *Researching AI-driven methods for quantum information, AI for Quantum*
 - 💻 *Studying quantum information with continuous-variable systems, CV*
 
-![Research Focus Diagram](images/major.pdf)
+![Research Focus Diagram](major.pdf)
 
 ## Publications
 1. Tang X, Lv H, Gao Y, et al. Towards Efficient Auction Design with ROI Constraints[C]//Proceedings of the 23rd International Conference on Autonomous Agents and Multiagent Systems. 2024: 1818-1826. (CCF B) [Publication from undergraduate research, advised by Prof. Hongtao Lv and Prof. Lei Liu.]
