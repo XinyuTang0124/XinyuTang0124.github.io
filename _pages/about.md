@@ -29,7 +29,7 @@ My research sits at the exciting intersection of **Artificial Intelligence** and
 * 💻 **Continuous-variable (CV) Systems:** Studying quantum information processing with CV systems.
 
 <div align="center">
-  <img src="major.png" width="80%" alt="Research Focus Diagram">
+  <img src="major.pdf" width="80%" alt="Research Focus Diagram">
 </div>
 
 ---
@@ -53,10 +53,10 @@ My research sits at the exciting intersection of **Artificial Intelligence** and
 
 ## 🏆 Honors & Awards
 
-| Year | Award | Level |
-| :--- | :--- | :--- |
-| 2024 | **National Scholarship** | Top 0.2% |
-| 2022 | **National Scholarship** | Top 0.2% |
+| Year | Award |
+| :--- | :--- | 
+| 2024 | **National Scholarship** | 
+| 2022 | **National Scholarship** |
 
 ---
 
