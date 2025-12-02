@@ -51,8 +51,6 @@ My research sits at the exciting intersection of **Artificial Intelligence** and
     <a href="https://www.ifaamas.org/Proceedings/aamas2024/pdfs/p1818.pdf">
       <img src="https://img.shields.io/badge/Paper-PDF-b31b1b?style=flat-square&logo=adobe-acrobat&logoColor=white" alt="Paper PDF">
     </a>
-    ```
-
 ---
 
 ## 🏆 Honors & Awards
