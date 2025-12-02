@@ -29,7 +29,7 @@ My research sits at the exciting intersection of **Artificial Intelligence** and
 * 💻 **Continuous-variable (CV) Systems:** Studying quantum information processing with CV systems.
 
 <div align="center">
-  <img src="major.pdf" width="80%" alt="Research Focus Diagram">
+  <img src="major.png" width="80%" alt="Research Focus Diagram">
 </div>
 
 ---
