@@ -38,7 +38,7 @@ My research sits at the exciting intersection of **Artificial Intelligence** and
 * **AI for Quantum:** Applying **A**rtificial **I**ntelligence to tackle fundamental problems in Quantum Computing.
 * **Continuous-variable (CV) Systems:** Researching **Quantum Tomography** and state reconstruction techniques in Continuous-variable frameworks.
 
-Currently, I am focused on exploring how AI-driven methods can solve complex problems in quantum information, with a specific interest in **Continuous-variable (CV) Systems**.  
+Currently, My research focuses on applying AI-driven methods to quantum state tomography in CV systems. 
 
 ![Research Focus Diagram](major.png)
 
