@@ -44,10 +44,14 @@ My research sits at the exciting intersection of **Artificial Intelligence** and
 ## 📝 Publications
 
 1.  **Towards Efficient Auction Design with ROI Constraints**
-    <br> **Xinyu Tang**, Hongtao Lv, Yu Gao, et al.
+    <br> **Xinyu Tang**, Hongtao Lv, Yingjie Gao, Fan Wu, Lei Liu, Lizhen Cui.
     <br> *Proceedings of the 23rd International Conference on Autonomous Agents and Multiagent Systems (**AAMAS 2024**)*, Auckland, New Zealand. (CCF-B, **Oral**)
     <br> [Undergraduate research advised by Prof. Hongtao Lv and Prof. Lei Liu]
-    <br> <a href="LINK_TO_PDF"><img src="https://img.shields.io/badge/PDF-Download-red?style=flat-square&logo=adobe-acrobat" alt="PDF"></a>
+    <br> 
+    <a href="https://www.ifaamas.org/Proceedings/aamas2024/pdfs/p1818.pdf">
+      <img src="https://img.shields.io/badge/Paper-PDF-b31b1b?style=flat-square&logo=adobe-acrobat&logoColor=white" alt="Paper PDF">
+    </a>
+    ```
 
 ---
 
