@@ -26,7 +26,7 @@ Previously, I received my B.E. degree from the School of Software, **Shandong Un
 ---
 
 ## 🔥 News
-<div style="height: 150px; overflow-y: scroll; border: 1px solid #e1e4e8; padding: 10px; border-radius: 5px;">
+<div style="height: 120px; overflow-y: scroll; border: 1px solid #e1e4e8; padding: 10px; border-radius: 5px;">
 <ul style="margin: 0;">
   <li><strong>[Sept. 2025]</strong> 🚀 Started my Ph.D. journey at SJTU!</li>
   <li><strong>[May 2024]</strong> 🎉 Paper accepted to <strong>AAMAS 2024</strong> (Oral Presentation).</li>
@@ -41,7 +41,7 @@ Previously, I received my B.E. degree from the School of Software, **Shandong Un
 * **Continuous-variable (CV) Systems:** Researching **Quantum Tomography** and state reconstruction techniques in Continuous-variable frameworks.
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
-  <img src="major.png" width="45%" style="border-radius: 8px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);" alt="Research Focus Diagram">
+  <img src="/major.png" width="45%" style="border-radius: 8px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);" alt="Research Focus Diagram">
   </div>
 
 ---
