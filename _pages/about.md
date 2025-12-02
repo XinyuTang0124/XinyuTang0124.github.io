@@ -40,7 +40,7 @@ Previously, I received my B.E. degree from the School of Software, **Shandong Un
 * **AI for Quantum:** Applying **A**rtificial **I**ntelligence to tackle fundamental problems in Quantum Computing.
 * **Continuous-variable (CV) Systems:** Researching **Quantum Tomography** and state reconstruction techniques in Continuous-variable frameworks.
 
-![Research Focus Diagram](major.pdf)
+![Research Focus Diagram](major.png)
 
 ---
 
