@@ -19,9 +19,7 @@ redirect_from:
 
 Hi! I am Xinyu Tang, a first-year Ph.D. student at the [School of Computer Science](https://www.cs.sjtu.edu.cn/en/), **Shanghai Jiao Tong University (SJTU)**, advised by [**Prof. Ya-Dong Wu**](https://yadong101.github.io).
 
-My research sits at the exciting intersection of **Artificial Intelligence** and **Quantum Information**. Currently, I am focused on exploring how AI-driven methods can solve complex problems in quantum information, with a specific interest in **Continuous-variable (CV) Systems**.
-
-Previously, I received my B.E. degree from the School of Software, **Shandong University (SDU)** in June 2025.
+My research sits at the exciting intersection of **Artificial Intelligence** and **Quantum Information**. 
 
 ---
 
@@ -39,6 +37,8 @@ Previously, I received my B.E. degree from the School of Software, **Shandong Un
 
 * **AI for Quantum:** Applying **A**rtificial **I**ntelligence to tackle fundamental problems in Quantum Computing.
 * **Continuous-variable (CV) Systems:** Researching **Quantum Tomography** and state reconstruction techniques in Continuous-variable frameworks.
+
+Currently, I am focused on exploring how AI-driven methods can solve complex problems in quantum information, with a specific interest in **Continuous-variable (CV) Systems**.  
 
 ![Research Focus Diagram](major.png)
 
