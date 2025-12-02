@@ -41,7 +41,7 @@ Previously, I received my B.E. degree from the School of Software, **Shandong Un
 * **Continuous-variable (CV) Systems:** Researching **Quantum Tomography** and state reconstruction techniques in Continuous-variable frameworks.
 
 <div align="center">
-  <img src="major.png" width="80%" alt="Research Focus Diagram">
+  <img src="major2.png" width="80%" alt="Research Focus Diagram">
 </div>
 
 ---
