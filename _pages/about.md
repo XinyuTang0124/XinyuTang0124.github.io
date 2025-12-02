@@ -31,7 +31,9 @@ My research sits at the exciting intersection of **Artificial Intelligence** and
 <div align="center">
   <img src="major.png" width="80%" alt="Research Focus Diagram">
 </div>
-
+<div align="center">
+  <img src="major2.png" width="80%" alt="Research Focus Diagram2">
+</div>
 ---
 
 ## 🔥 News
