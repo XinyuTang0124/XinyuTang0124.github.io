@@ -26,7 +26,7 @@ Previously, I received my B.E. degree from the School of Software, **Shandong Un
 ---
 
 ## 🔥 News
-<div style="height: 100px; overflow-y: scroll; border: 1px solid #e1e4e8; padding: 10px; border-radius: 5px;">
+<div style="height: 90px; overflow-y: scroll; border: 1px solid #e1e4e8; padding: 10px; border-radius: 5px;">
 <ul style="margin: 0;">
   <li><strong>[Sept. 2025]</strong> 🚀 Started my Ph.D. journey at SJTU!</li>
   <li><strong>[May 2024]</strong> 🎉 Paper accepted to <strong>AAMAS 2024</strong> (Oral Presentation).</li>
