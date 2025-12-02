@@ -7,22 +7,60 @@ redirect_from:
   - /about.html
 ---
 
-## About Me
+<div style="text-align: center; margin-bottom: 20px;">
+  <img src="https://img.shields.io/badge/Status-Ph.D._Student-blue?style=flat-square&logo=c" alt="Status"/>
+  <img src="https://img.shields.io/badge/Focus-Quantum_Info-purple?style=flat-square&logo=atom" alt="Focus"/>
+  <img src="https://img.shields.io/badge/University-SJTU-red?style=flat-square" alt="SJTU"/>
+</div>
 
-I am **Xinyu Tang (汤欣宇)**, currently a first-year Ph.D. student at the School of Computer Science, Shanghai Jiao Tong University. I received my Bachelor's degree from the School of Software, Shandong University in June 2025.
+## 👨‍🎓 About Me
 
-I am fortunate to be advised by [Prof. Ya-Dong Wu](https://yadong101.github.io).
+I am **Xinyu Tang (汤欣宇)**, a first-year Ph.D. student at the [School of Computer Science](https://www.cs.sjtu.edu.cn/en/), **Shanghai Jiao Tong University (SJTU)**. 
 
-My research focuses on **quantum information**, which lies at the intersection of:
-- 🤖 *Researching AI-driven methods for quantum information, AI for Quantum*
-- 💻 *Studying quantum information with continuous-variable systems, CV*
+Prior to this, I received my B.E. degree from the School of Software, **Shandong University (SDU)** in June 2025.
 
-![Research Focus Diagram](major.pdf)
+I am fortunate to be advised by [**Prof. Ya-Dong Wu**](https://yadong101.github.io).
 
-## Publications
-1. Tang X, Lv H, Gao Y, et al. Towards Efficient Auction Design with ROI Constraints[C]//Proceedings of the 23rd International Conference on Autonomous Agents and Multiagent Systems. 2024: 1818-1826. (CCF B) [Publication from undergraduate research, advised by Prof. Hongtao Lv and Prof. Lei Liu.]
+## 🔬 Research Interests
 
-## Awards
-National Scholarship (2021-2022/2023-2024)
+My research sits at the exciting intersection of **Artificial Intelligence** and **Quantum Information**. I am particularly interested in:
 
-# Thanks for visiting my profile! 🚀
+* 🤖 **AI for Quantum:** Researching AI-driven methods to solve quantum information problems.
+* 💻 **Continuous-variable (CV) Systems:** Studying quantum information processing with CV systems.
+
+<div align="center">
+  <img src="major.png" width="80%" alt="Research Focus Diagram">
+</div>
+
+---
+
+## 🔥 News
+* **[Sept. 2025]** Started my Ph.D. journey at SJTU! 🚀
+* **[June 2025]** Graduated from Shandong University with a Bachelor's degree. 🎓
+* **[May 2024]** One paper accepted to **AAMAS 2024** (Oral)! 🎉
+
+---
+
+## 📝 Publications
+
+1.  **Towards Efficient Auction Design with ROI Constraints**
+    <br> **Xinyu Tang**, Hongtao Lv, Yu Gao, et al.
+    <br> *Proceedings of the 23rd International Conference on Autonomous Agents and Multiagent Systems (**AAMAS 2024**)*, Auckland, New Zealand. (CCF-B, **Oral**)
+    <br> [Undergraduate research advised by Prof. Hongtao Lv and Prof. Lei Liu]
+    <br> <a href="LINK_TO_PDF"><img src="https://img.shields.io/badge/PDF-Download-red?style=flat-square&logo=adobe-acrobat" alt="PDF"></a>
+
+---
+
+## 🏆 Honors & Awards
+
+| Year | Award | Level |
+| :--- | :--- | :--- |
+| 2024 | **National Scholarship** | Top 0.2% |
+| 2022 | **National Scholarship** | Top 0.2% |
+
+---
+
+<div align="center">
+    <p><i>Thanks for visiting my profile! 🚀</i></p>
+    <p><i>Feel free to reach out via email for collaboration.</i></p>
+</div>
