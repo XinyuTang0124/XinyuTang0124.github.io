@@ -29,7 +29,6 @@ Previously, I received my B.E. degree from the School of Software, **Shandong Un
 <div style="height: 150px; overflow-y: scroll; border: 1px solid #e1e4e8; padding: 10px; border-radius: 5px;">
 <ul style="margin: 0;">
   <li><strong>[Sept. 2025]</strong> 🚀 Started my Ph.D. journey at SJTU!</li>
-  <li><strong>[June 2025]</strong> 🎓 Graduated from Shandong University with a Bachelor's degree.</li>
   <li><strong>[May 2024]</strong> 🎉 Paper accepted to <strong>AAMAS 2024</strong> (Oral Presentation).</li>
 </ul>
 </div>
@@ -38,8 +37,8 @@ Previously, I received my B.E. degree from the School of Software, **Shandong Un
 
 ## 🔬 Research Interests
 
-* **AI for Quantum:** Leveraging machine learning techniques (e.g., Reinforcement Learning, Generative Models) to optimize quantum control and quantum error correction.
-* **Continuous-variable (CV) Systems:** Investigating quantum information processing and entanglement utilizing CV quantum systems.
+* **AI for Quantum:** Applying **A**rtificial **I**ntelligence to tackle fundamental problems in Quantum Computing.
+* **Continuous-variable (CV) Systems:** Researching **Quantum Tomography** and state reconstruction techniques in Continuous-variable frameworks.
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
   <img src="major.png" width="45%" style="border-radius: 8px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);" alt="Research Focus Diagram">
@@ -60,7 +59,7 @@ Previously, I received my B.E. degree from the School of Software, **Shandong Un
 
 * **Ph.D. in Computer Science** (Sept. 2025 - Present) \
     *Shanghai Jiao Tong University (SJTU)*
-* **B.E. in **Artificial Intelligence** (Sept. 2021 - June 2025) \
+* **B.E. in Artificial Intelligence** (Sept. 2021 - June 2025) \
     *Shandong University (SDU)* 
 
 ---
